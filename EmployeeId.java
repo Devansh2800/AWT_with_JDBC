@@ -3,6 +3,8 @@ import java.awt.event.*;
 
 import java.sql.*;
 
+//This program uses AWT and SQL to make changes in the database.
+
 class EmpGui implements ActionListener{
 
 	Frame f1;
