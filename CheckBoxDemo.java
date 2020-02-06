@@ -1,3 +1,5 @@
+//This program will only consist of the awt and event handling. It will make use of the frames, checkboxes, buttons etc.
+
 import java.awt.*;
 import java.awt.event.*;
 
